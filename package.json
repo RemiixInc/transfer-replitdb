@@ -1,6 +1,6 @@
 {
   "name": "transfer-replitdb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Transfer your ReplitDB data without completely rewriting your app when moving a project to a different hosting platform.",
   "main": "index.js",
   "scripts": {

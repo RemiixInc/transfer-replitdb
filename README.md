@@ -6,9 +6,9 @@ A node.js module that allows you to effortlessly transfer your ReplitDB data wit
 const Database = require("transfer-replitdb")
 const db = new Database()
 
-db.set("userInfo", { difficulty: "Easy" });
+db.set("foo", "bar");
 
-db.get("userInfo.balance").then(value => { console.log(value) });
+db.get("foo").then(console.log); // bar
 ```
 
 ## Importing data from ReplitDB

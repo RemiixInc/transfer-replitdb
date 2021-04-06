@@ -1,0 +1,25 @@
+{
+  "name": "transfer-replitdb",
+  "version": "0.0.1",
+  "description": "A node.js module that allows you to effortlessly transfer your ReplitDB data without completely rewriting your app when moving a project to a different hosting platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "replit",
+    "replitdb",
+    "repldb",
+    "json",
+    "db",
+    "database",
+    "nodejs",
+    "javascript",
+    "npm"
+  ],
+  "author": "RemiixInc",
+  "license": "MIT"
+}
